@@ -1,4 +1,4 @@
-# Book-Cloud-back
+# Book-Cloud-Backend
 
 ## URL to live site: 
 
@@ -12,7 +12,7 @@ First, the user creates an account with an email or password, or they can sign i
 
 ## Technologies Used
 
-The backend of this application was built with Python Flask. The [frontend](https://github.com/kb789/Book-Cloud-Frontend) was built with React.Firebase was used to manage authentication, and a Firebase database was used for storage.
+The backend of this application was built with Python Flask. The [frontend](https://github.com/kb789/Book-Cloud-Frontend) was built with React. Firebase was used to manage authentication, and a Firebase database was used for storage.
 
 
 ## APIs used
