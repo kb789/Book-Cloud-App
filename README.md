@@ -1,9 +1,5 @@
 # Book-Cloud-App
 
-## URL to live site: 
-
-[https://62f9c18dd35b2b721f7f8a30--ephemeral-treacle-8f3661.netlify.app/](https://62f9c18dd35b2b721f7f8a30--ephemeral-treacle-8f3661.netlify.app/ )
-
 ## Description
 
 The Book Cloud App allows users to create an account, store the books that they've read or are reading, and see the subject matter of these books represented as a word cloud.
