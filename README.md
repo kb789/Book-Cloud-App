@@ -17,7 +17,7 @@ The backend of this application was built with Python Flask. The [frontend](http
 
 ## APIs used
 
-The WorldCat Search API was used to get the title, author, subject, and description information for the books. 
+The WorldCat Search API was used to get the title, author, subject, and description information for the books. Book cover images are from the Google Books API.
 
 
 ## 
